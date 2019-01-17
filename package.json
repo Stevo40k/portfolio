@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "practice building a site from front end to back end",
   "main": "app.js",
-  "scripts": {
+  "scripts": { 
     "start": "node app.js",
     "server": "nodemon app.js"
   },

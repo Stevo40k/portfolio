@@ -2,7 +2,7 @@ const express = require('express');
 const bodyParser = require('body-parser');
 const exphbs  = require('express-handlebars');
 
-const app = express();
+const app = express(); 
 
 //Handlebars Middleware
 app.engine('handlebars', exphbs({defaultLayout: 'main'}));
